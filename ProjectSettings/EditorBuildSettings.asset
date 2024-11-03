@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 161f3a2996a4b4b22b7e146ed4388f4a
+  - enabled: 1
+    path: Assets/Scenes/IntroCinematic.unity
+    guid: 7bc75d3f2a8f60545bc20bea9325af9f
+  - enabled: 1
+    path: Assets/Scenes/Select Level Menu.unity
+    guid: 467269dd27047fd48b5057bc7018d356
+  - enabled: 1
+    path: Assets/Scenes/lvl 12-1.unity
+    guid: 6d3d493f6329f104e9a9473ee1f877f9
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer/Level 4 multiplayer.unity
+    guid: 1807e09bc3df90341863d04dadcf951e
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer/lvl 3 multiplayer.unity
+    guid: 2547d9db3356fac48b3281eb77ff0b24
+  - enabled: 1
+    path: Assets/Scenes/CinematicLevel1 1.unity
+    guid: bc77bf1ea48cc8d41bf0863e021ce4dc
+  - enabled: 1
+    path: Assets/Scenes/CinematicLevel2 1.unity
+    guid: e20989e3a8318024b9f711b6e9a83176
+  - enabled: 1
+    path: Assets/Scenes/CinematicLevel3 1.unity
+    guid: 36e04c31d3313cf479ca106e0408af69
+  - enabled: 1
+    path: Assets/Scenes/CinematicLevel9.unity
+    guid: b92120150008dc34791969145d0cf7bc
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer/lvl 7-1 multiplayer.unity
+    guid: c2d03574d581ae14991290fd74d2f718
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer/lvl 8-1 multiplayer.unity
+    guid: 5e1d8ff34c9f09a4a8a722e66bb122a8
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer/lvl 10-1 multiplayer.unity
+    guid: 9d162a0b4c672a240871bc62cc24b64f
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer/lvl 12-1 multiplayer.unity
+    guid: 245ff74d9c64ac54fbff219ce9a87d7f
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer/Select Level Menu multi.unity
+    guid: 2897f0498bf21c748a13d9eca89c88b1
+  - enabled: 1
+    path: Assets/Scenes/Settings Menu.unity
+    guid: 40b19c9bd0df6492f9d080c4ebc0c544
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer/lvl 1 multi final.unity
+    guid: 2aefbd082c74d4f46bf56915247c48d3
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer/Level 2 multiplayer.unity
+    guid: 3327b772b332f5442bc60cd680b8f169
+  - enabled: 1
+    path: Assets/Scenes/lvl 1.unity
+    guid: 6eddc60fe7c743e499be28868de12967
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer/lvl1 multi.unity
+    guid: ce6b32a2f0f008f448141186ca898ae9
+  - enabled: 1
+    path: Assets/Scenes/Multiplayer/Multiplayer Menu.unity
+    guid: c7023f3facd660f4ea423083540c10ea
+  - enabled: 1
+    path: Assets/Scenes/lvl 7-1.unity
+    guid: 38ecbf8fa75274bfd87e2a9d0a71c1a6
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/lvl 7-2.unity
+    guid: 71fe2a018170c407ea06b3012ccaea2c
+  - enabled: 1
+    path: Assets/Scenes/lvl 10-2.unity
+    guid: da2ec5464848a274ca343d27ecadc941
+  - enabled: 1
+    path: Assets/Scenes/CinematicLevel1.unity
+    guid: 5da0d545735f8b14c83201f5158cb1b9
+  - enabled: 1
+    path: Assets/Scenes/CinematicLevel10.unity
+    guid: 837d89fcd4cf2554d9c6c06ebe71ec44
+  - enabled: 1
+    path: Assets/Scenes/lvl 8-2.unity
+    guid: 20e9abc1708864139b2161cb3a96bf84
+  - enabled: 1
+    path: Assets/Scenes/lvl 10-1.unity
+    guid: 4a6535338eaf1439084cf1026f85a288
+  - enabled: 1
+    path: Assets/Scenes/lvl 11-2.unity
+    guid: 2baef2a313e694967b8bd402c3339226
+  - enabled: 1
+    path: Assets/Scenes/lvl 12-2.unity
+    guid: f93d204a1c0a34d9f953f9ea8312522e
+  - enabled: 1
+    path: Assets/Scenes/lvl 9-2.unity
+    guid: 77f0f164ad35f4817812649fb77dfc15
+  - enabled: 1
+    path: Assets/Scenes/lvl 9-1.unity
+    guid: aa7e2d1893cc74f83800baf82b1778a7
+  - enabled: 1
+    path: Assets/Scenes/CinematicLevel2.unity
+    guid: cef4306db0fe1db47a87213057256c44
+  - enabled: 1
+    path: Assets/Scenes/CinematicLevel10_2.unity
+    guid: b2f5b3d502e2a06409f7397c15f3618d
+  - enabled: 1
+    path: Assets/Scenes/lvl 8-1.unity
+    guid: 596508b609c9c48b6a0e7e2150423f31
+  - enabled: 1
+    path: Assets/Scenes/CinematicLevel11.unity
+    guid: a6901dd5388aaea45b6aef7de56a071f
+  - enabled: 1
+    path: Assets/Scenes/CinematicLevelEndGame.unity
+    guid: 2465a9f2d116b1048b971b95dd6cd5af
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 8a357df2e061247c9a9d7b1b56cb8c7f
+  - enabled: 1
+    path: Assets/Scenes/lvl 5.unity
+    guid: e0199c745085bc847822b173bb67838b
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: d668ce762ebe84bd49a2a60b09945160
+  - enabled: 1
+    path: Assets/Scenes/CinematicLevel3.unity
+    guid: 084dd6dbb68f0644bbbf1e344eb8e1ed
+  - enabled: 1
+    path: Assets/Scenes/Level 2-2.unity
+    guid: a0624b7afef64462881bf7489b5a4fbb
+  - enabled: 1
+    path: Assets/Scenes/CinematicLevel5.unity
+    guid: c055119e783b3034c806d86c8ee274ec
+  - enabled: 1
+    path: Assets/Scenes/lvl 3.unity
+    guid: 47098d5488e1541bf8aa522340a4764d
+  - enabled: 1
+    path: Assets/Scenes/CinematicLevel4.unity
+    guid: ff40cdf29dba62b489b63b43dda19313
+  - enabled: 1
+    path: Assets/Scenes/lvl 6.unity
+    guid: 77d0153c86d294f4d99c95ee6431da6b
+  - enabled: 1
+    path: Assets/Scenes/CinematicLevel6.unity
+    guid: 2b856bc7fa5e9a346bc29de64b8eebea
+  - enabled: 1
+    path: Assets/Scenes/CinematicLevel7.unity
+    guid: 61e5cd7b9d99bb74fba81bd25a675794
+  - enabled: 1
+    path: Assets/Scenes/CinematicLevel7_2.unity
+    guid: 8cd56ccb65a2f3b4ba5abb385494b2d0
+  - enabled: 1
+    path: Assets/Scenes/CinematicLevel8.unity
+    guid: ef91ab10eaea3864d816ea0ab212390f
+  - enabled: 1
+    path: Assets/Scenes/tutorial.unity
+    guid: 49245aa9ce54c48aab35e0f7ca071ad5
+  - enabled: 1
+    path: Assets/Scenes/QTE.unity
+    guid: eb0d6a3541969a74fb70b60278bbb8cd
+  m_configObjects: {}

@@ -1,0 +1,2489 @@
+fileFormatVersion: 2
+guid: 5afd1d45f49d847a4ade1a810e894738
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 479
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02edf40fdc1d544d28a54dc0c945539b
+      internalID: -812575725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 479
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cce1630dbef4417aa9549b6c26d144
+      internalID: -2106058410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 444
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b168cab11545f4d7cb93e6d90863bf5d
+      internalID: -797335934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 444
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c163ce182fd425faeba9a9c59440ad
+      internalID: 1401386876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 444
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f932f436b29e440999625aa29b0322ed
+      internalID: -283773196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 444
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82c3af58343a4027aa5366c452fa081
+      internalID: 1851628677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 444
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556d3f1042c5348bf9c3df83e2e8a40c
+      internalID: -1793246024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_7
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 444
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f1e5fc62ba5412387180e77b524aa9
+      internalID: -835848418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 444
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fff6cf025a84de9a582da4e7b5cffe
+      internalID: 27462858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 444
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffe2ad53e8d2460191ba0733cc93b31
+      internalID: 1176997574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 409
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a3fa15fd8c3404a9aa9439ba3ced26
+      internalID: 1910633571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 409
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48afceea0ed3d45a7a0a71d029142921
+      internalID: 1985303701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 409
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a411a5cd84894b01b7aedeb852b05ff
+      internalID: 433460672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 409
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae51cb32ee5a64cc7ac8e7af42ead30d
+      internalID: 550842715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 409
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfa9b01a3d004fd2b4d235633b10107
+      internalID: -215785151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_15
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 409
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773b9111417cc4c33aec9f4a2688391c
+      internalID: 2036830738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_16
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 409
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb8a881c745b464bae5cd65ba2da008
+      internalID: -1659508981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_17
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 409
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604469b7b8f714933ab62177358e63b5
+      internalID: -1215873815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 374
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56a60205acd64c83a569f00316d88ed
+      internalID: 842746075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 374
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c583a1d9db30143deb7b81b65b3fc97a
+      internalID: 1656950706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_20
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 374
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a99036614f1428595094378a7cc27d
+      internalID: 1349240654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 374
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abba3a8a57a794be98ff833e6de7e1ac
+      internalID: 1906576892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 374
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6a0000ca0fe49bcbb1585bb1a7bddb
+      internalID: 1825388924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 374
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98a484c9e40b40a6a77db93cbbb441b
+      internalID: -1756708551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_24
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 374
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c653490b403634d0fbf46493043df605
+      internalID: 1803572155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 374
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dced9eb4d468240449b9136d870192ae
+      internalID: -1186927176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 339
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c0069b7b31e46be997b21d6f6107dc
+      internalID: 516249718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 339
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9fac29ef2e7425c91f7f515f800744
+      internalID: 1926495306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_28
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 339
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53af3612fc7d54a11a3a32658d4cd82c
+      internalID: 891236803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_29
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 339
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b057348683149b4b82672689208b36
+      internalID: -187693261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 339
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817e712d5f1c74e4b80eed9ed76859d9
+      internalID: -1672765561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_31
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 339
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8163f8c5d4f46c4bfa50943d4b9945
+      internalID: 401117767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_32
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 339
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1eae998e0c44dadadb34dbb015fd79
+      internalID: 707655852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_33
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 339
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e63a6f102d234d988e274d308ea79be
+      internalID: 396945829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 325
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e63242dfb02407783eec6ce3625d03
+      internalID: 2088856814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 325
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b209186c0f22a4b94992fed5ec622cae
+      internalID: 1956311125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 325
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49f961c9fca54adebe397f568f725c0
+      internalID: -495433722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 288
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ff0788b5fb4452da9414d435dbc921
+      internalID: 1818199564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 288
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae34b815981a94147902451db9b14711
+      internalID: 53063811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_39
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 288
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8baf827cb4b4c8798f7d671870ce15
+      internalID: -67475885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_40
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 288
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de48973f2470a459d8cae6b24c632b93
+      internalID: 664376990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_41
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 288
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a7ee592842048ca91283c87449250e
+      internalID: 392861278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_42
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 288
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a7f33189b2f49f0a60abab672fde2c
+      internalID: 1432478603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_43
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 288
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc50a0aa81e34a95b05f59fe24e1fac
+      internalID: 917844861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_44
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 288
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104b63006d3a242ce9920a9de10ca231
+      internalID: 972706323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 274
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0ba33ace86e4b20a04266efcbce3ef
+      internalID: 1226190341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_46
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 274
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5304448a03924278ace4cb674b12d11
+      internalID: 2018670606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_47
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 274
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0dc185838514eeca00119dbdee6a18
+      internalID: -1189203448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_48
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 274
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a01bbfdcaf574e4585e3834cbfce3c3
+      internalID: -1754969275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_49
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 272
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95d0d960f87a4ad3af3845af09b209a
+      internalID: 576090058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 241
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9b17dd4acd3483eb6bcdc3c6461fee
+      internalID: 1740857949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 241
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06244eab87c5429e9bb3b355293da8d
+      internalID: -1156813561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_52
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 241
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6068930731b4676911c6a2e0da0fd2
+      internalID: -413173258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_53
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 241
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed22b406e55d4a319b42c22d3882755
+      internalID: 1538664813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_54
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 241
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c51ff9386f934b47b802e5f90b9c473
+      internalID: 938028290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 227
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf131ccd6613e409f8a70d2b8bd70cdc
+      internalID: -1546680134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 227
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0215ba4d5f04003a1f7f2064d165ca
+      internalID: 1882537379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_57
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 227
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515423382fb634c1a8ecf9c2d62dcb5a
+      internalID: -1685981372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_58
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 227
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ae9f0e91fa242b78d8fdcd6939ef19
+      internalID: -723818716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_59
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 227
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d912d3928b242bba833deab1e85b23
+      internalID: 910436144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_60
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 227
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c66173ef3a7244feb5c2112c51b2fe0
+      internalID: -546886195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_61
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 195
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17ce87d61cd44a63a5ffdb232a5e95c
+      internalID: -490085388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_62
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 195
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a35ece30a294fa78c99123b8c1fcb9
+      internalID: -341260899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_63
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 195
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3eec1b411c4341888a2d8e7f3110f94
+      internalID: -1311754955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_64
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 195
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509e26a7cbb144072bf1254710104164
+      internalID: -533066258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_65
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 198
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c86f34fcadab49d980fc683c42e7252
+      internalID: 287253654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_66
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 195
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ce16f14c96d4a639c3a50b6361dcaf
+      internalID: 565009524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_67
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 195
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f231bfb0a5147b492792d5c9929e68
+      internalID: -103699746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 181
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2cb999b64d6427fbd408ee447113a6
+      internalID: -1872539602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_69
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 181
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147510a2f60d442ad8261250ebda846a
+      internalID: -1810515339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_70
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 181
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be84b43e12fd14f099f67b87e20b08cb
+      internalID: 1613825037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_71
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 181
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabea9195ed114cd2a7d715f22829549
+      internalID: 2083167326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 144
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c5bad2325b8458d892feea222da428
+      internalID: -177854875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_73
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 144
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3384cc8186049487ea8c0e4dace6a05e
+      internalID: 1791411699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_74
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 144
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4651a357eaa4045248d05927167dc7d8
+      internalID: -1028869345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_75
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 144
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808e6665e954543e0816d37d91919366
+      internalID: 1725501951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_76
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 144
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1495d9c067c9443fdad54088a27ad92e
+      internalID: -1157978880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab64560e7c27d4211a7334836ce2d652
+      internalID: 1299530006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_78
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 130
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ec08d599c734de193db0784646b452
+      internalID: 997842973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_79
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 130
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0aa54bb004c4134a49bc1d0dc25f48
+      internalID: -792947818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_80
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 130
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e9f629c345a472592e2444c5a32f52
+      internalID: -1263767103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_81
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 128
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b109db473afb4442b17bc001efb6885
+      internalID: -1247537071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_82
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 95
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b693907b1ae481ca8b0a8b62f4758f
+      internalID: 989628939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_83
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 95
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a8f8d9af65b430d9a0a14a684ca2af
+      internalID: 590788803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_84
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 95
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aa77b752ee64b5881b0ac3a595ecf0
+      internalID: -2117372979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_85
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 95
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04159b1602da4e0087e82cc68ec0879
+      internalID: 504343947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_86
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 95
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab27776c8baef4afea728ad359666090
+      internalID: 2069468521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_87
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaeda2ab9cae466fbc25be7332a64a4
+      internalID: 255854146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_88
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 81
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e8052013e1144d0a4675c91c482067
+      internalID: -673112695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_89
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 81
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a642ccb493ff748019492ac2ad55d863
+      internalID: -638681620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_90
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 81
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3eb904e59c4f43efaac7587b41f4ef8
+      internalID: 709933702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_91
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 79
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5072e4d80c04743af35f532f4f94a5
+      internalID: -1786847644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_92
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 81
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea144e950729b4a80a5dc14b82884dd8
+      internalID: 2134573918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_93
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 81
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54a6e21fd5e947bbb6c554a8a5a5593
+      internalID: 1002804819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_94
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 81
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119b05a3816b744a79dbb30f8759e199
+      internalID: -988252954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 81
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e706de78d45db4740959ffaf7c0ac554
+      internalID: 243864180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_96
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 49
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525b029df3a6741ba9f6bf2bcd4b83c4
+      internalID: 942162032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_97
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e86380e08984b6d9779510db93dc10
+      internalID: -1608586950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_98
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 35
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d938007310b64ab78783ea3e0179620
+      internalID: 1443611694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_99
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 35
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb188095c1c584941a8f238ff3f6e2f3
+      internalID: 985393253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_100
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 35
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc42c234f2e74d969c84b6fc72e71ec
+      internalID: -1930367228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_101
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5f03b14aa7049fe8bacabec8028b57
+      internalID: -1125594559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_102
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 3
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d8774ba22c646db8aea714c7c0b0c0
+      internalID: -2040450752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_103
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 3
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc60a86b534443e3a7815fea8fc83df
+      internalID: -2063879995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_104
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de039045500a540c0b7739ec5bc0f82b
+      internalID: 523961609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_105
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 3
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a60112b713424523b2de6a9d7b3b256
+      internalID: -584626203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Hog_106
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3624191b94c8b43b08b9c15ca9ab9c96
+      internalID: 1817716964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Lost Ruins - Hog_71: 2083167326
+      PC Computer - Lost Ruins - Hog_7: -835848418
+      PC Computer - Lost Ruins - Hog_83: 590788803
+      PC Computer - Lost Ruins - Hog_0: -812575725
+      PC Computer - Lost Ruins - Hog_13: 550842715
+      PC Computer - Lost Ruins - Hog_6: -1793246024
+      PC Computer - Lost Ruins - Hog_14: -215785151
+      PC Computer - Lost Ruins - Hog_3: 1401386876
+      PC Computer - Lost Ruins - Hog_79: -792947818
+      PC Computer - Lost Ruins - Hog_30: -1672765561
+      PC Computer - Lost Ruins - Hog_35: 1956311125
+      PC Computer - Lost Ruins - Hog_73: 1791411699
+      PC Computer - Lost Ruins - Hog_74: -1028869345
+      PC Computer - Lost Ruins - Hog_15: 2036830738
+      PC Computer - Lost Ruins - Hog_32: 707655852
+      PC Computer - Lost Ruins - Hog_98: 1443611694
+      PC Computer - Lost Ruins - Hog_26: 516249718
+      PC Computer - Lost Ruins - Hog_77: 1299530006
+      PC Computer - Lost Ruins - Hog_8: 27462858
+      PC Computer - Lost Ruins - Hog_49: 576090058
+      PC Computer - Lost Ruins - Hog_25: -1186927176
+      PC Computer - Lost Ruins - Hog_66: 565009524
+      PC Computer - Lost Ruins - Hog_42: 1432478603
+      PC Computer - Lost Ruins - Hog_103: -2063879995
+      PC Computer - Lost Ruins - Hog_34: 2088856814
+      PC Computer - Lost Ruins - Hog_99: 985393253
+      PC Computer - Lost Ruins - Hog_61: -490085388
+      PC Computer - Lost Ruins - Hog_36: -495433722
+      PC Computer - Lost Ruins - Hog_40: 664376990
+      PC Computer - Lost Ruins - Hog_5: 1851628677
+      PC Computer - Lost Ruins - Hog_63: -1311754955
+      PC Computer - Lost Ruins - Hog_39: -67475885
+      PC Computer - Lost Ruins - Hog_96: 942162032
+      PC Computer - Lost Ruins - Hog_64: -533066258
+      PC Computer - Lost Ruins - Hog_91: -1786847644
+      PC Computer - Lost Ruins - Hog_22: 1825388924
+      PC Computer - Lost Ruins - Hog_76: -1157978880
+      PC Computer - Lost Ruins - Hog_93: 1002804819
+      PC Computer - Lost Ruins - Hog_57: -1685981372
+      PC Computer - Lost Ruins - Hog_75: 1725501951
+      PC Computer - Lost Ruins - Hog_88: -673112695
+      PC Computer - Lost Ruins - Hog_33: 396945829
+      PC Computer - Lost Ruins - Hog_11: 1985303701
+      PC Computer - Lost Ruins - Hog_84: -2117372979
+      PC Computer - Lost Ruins - Hog_68: -1872539602
+      PC Computer - Lost Ruins - Hog_48: -1754969275
+      PC Computer - Lost Ruins - Hog_2: -797335934
+      PC Computer - Lost Ruins - Hog_89: -638681620
+      PC Computer - Lost Ruins - Hog_47: -1189203448
+      PC Computer - Lost Ruins - Hog_80: -1263767103
+      PC Computer - Lost Ruins - Hog_46: 2018670606
+      PC Computer - Lost Ruins - Hog_58: -723818716
+      PC Computer - Lost Ruins - Hog_85: 504343947
+      PC Computer - Lost Ruins - Hog_94: -988252954
+      PC Computer - Lost Ruins - Hog_69: -1810515339
+      PC Computer - Lost Ruins - Hog_23: -1756708551
+      PC Computer - Lost Ruins - Hog_72: -177854875
+      PC Computer - Lost Ruins - Hog_20: 1349240654
+      PC Computer - Lost Ruins - Hog_70: 1613825037
+      PC Computer - Lost Ruins - Hog_65: 287253654
+      PC Computer - Lost Ruins - Hog_90: 709933702
+      PC Computer - Lost Ruins - Hog_87: 255854146
+      PC Computer - Lost Ruins - Hog_10: 1910633571
+      PC Computer - Lost Ruins - Hog_4: -283773196
+      PC Computer - Lost Ruins - Hog_17: -1215873815
+      PC Computer - Lost Ruins - Hog_44: 972706323
+      PC Computer - Lost Ruins - Hog_9: 1176997574
+      PC Computer - Lost Ruins - Hog_97: -1608586950
+      PC Computer - Lost Ruins - Hog_50: 1740857949
+      PC Computer - Lost Ruins - Hog_52: -413173258
+      PC Computer - Lost Ruins - Hog_43: 917844861
+      PC Computer - Lost Ruins - Hog_102: -2040450752
+      PC Computer - Lost Ruins - Hog_53: 1538664813
+      PC Computer - Lost Ruins - Hog_41: 392861278
+      PC Computer - Lost Ruins - Hog_54: 938028290
+      PC Computer - Lost Ruins - Hog_60: -546886195
+      PC Computer - Lost Ruins - Hog_92: 2134573918
+      PC Computer - Lost Ruins - Hog_59: 910436144
+      PC Computer - Lost Ruins - Hog_21: 1906576892
+      PC Computer - Lost Ruins - Hog_82: 989628939
+      PC Computer - Lost Ruins - Hog_100: -1930367228
+      PC Computer - Lost Ruins - Hog_19: 1656950706
+      PC Computer - Lost Ruins - Hog_37: 1818199564
+      PC Computer - Lost Ruins - Hog_29: -187693261
+      PC Computer - Lost Ruins - Hog_67: -103699746
+      PC Computer - Lost Ruins - Hog_106: 1817716964
+      PC Computer - Lost Ruins - Hog_101: -1125594559
+      PC Computer - Lost Ruins - Hog_28: 891236803
+      PC Computer - Lost Ruins - Hog_24: 1803572155
+      PC Computer - Lost Ruins - Hog_27: 1926495306
+      PC Computer - Lost Ruins - Hog_45: 1226190341
+      PC Computer - Lost Ruins - Hog_86: 2069468521
+      PC Computer - Lost Ruins - Hog_31: 401117767
+      PC Computer - Lost Ruins - Hog_51: -1156813561
+      PC Computer - Lost Ruins - Hog_104: 523961609
+      PC Computer - Lost Ruins - Hog_95: 243864180
+      PC Computer - Lost Ruins - Hog_55: -1546680134
+      PC Computer - Lost Ruins - Hog_56: 1882537379
+      PC Computer - Lost Ruins - Hog_62: -341260899
+      PC Computer - Lost Ruins - Hog_16: -1659508981
+      PC Computer - Lost Ruins - Hog_12: 433460672
+      PC Computer - Lost Ruins - Hog_105: -584626203
+      PC Computer - Lost Ruins - Hog_18: 842746075
+      PC Computer - Lost Ruins - Hog_38: 53063811
+      PC Computer - Lost Ruins - Hog_81: -1247537071
+      PC Computer - Lost Ruins - Hog_1: -2106058410
+      PC Computer - Lost Ruins - Hog_78: 997842973
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

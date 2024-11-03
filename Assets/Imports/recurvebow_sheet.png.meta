@@ -1,0 +1,1587 @@
+fileFormatVersion: 2
+guid: c61357261bf464560aaa6bc503637e72
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: recurvebow_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 463
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c992b66b53d4fc0ae5d87cfcf4b770
+      internalID: -2121576876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 463
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6395760fd490a4233a2200d87f151f82
+      internalID: -1310806253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 463
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc692dec14c4432da26a900802cde41
+      internalID: -1548521280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 463
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19da8c093e45f439480cc5f57a26c104
+      internalID: 1276592797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 463
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7cbac5810d54d9099cc33bb1adea04
+      internalID: -423390254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 463
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a393c6a97b1304288abe5f8e4467ae88
+      internalID: 1555558737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 463
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8212825f754734a3d920542f148ea54c
+      internalID: 1047690039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 463
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60efdf9b4efe441b1b24db173fb8aff3
+      internalID: 418354564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 463
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cededcb4441ff43bc9bd9dc9c34c784e
+      internalID: 199275208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 463
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976020923106e4793b3cccb66ba0acac
+      internalID: -1808786401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 430
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22ab01513f4c4b00999131e28e94075
+      internalID: -148356935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 421
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67eb6c99f4e5e44b0a9228e7e5e610e4
+      internalID: -1479050777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 441
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82faee6a49b547e884440edbcffa88e
+      internalID: -954699374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 425
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186a4b3ed437145f8acc0dc786cb5703
+      internalID: 1425429408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 298
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee5b3ffcb73f4657b2c7250e3342496
+      internalID: 646983265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 295
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5838a93d19bbb42d0bf12dfb82869e30
+      internalID: 450348168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 287
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a716a907d3de949f681f0ce4cb063978
+      internalID: -218204099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 294
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2332798e27a854aa6b8858e6741356fc
+      internalID: -2121511919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 296
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4808edd73637649cda767125c28e853d
+      internalID: 1054410274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 322
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56ff15734e1241fda62fad76cbac6d3
+      internalID: -1611633098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 321
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e865549b362cf414dac08e32656b1369
+      internalID: -1178542822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 319
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018d9ae8a481e489fb7d6ba51356982f
+      internalID: -192621768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 294
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef1a20a82d7844408663814dcc814f7
+      internalID: 260368301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 294
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef27202f9586842759f12a68071701d8
+      internalID: -298309602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 294
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff15a39af1dde41989a437c6d748af23
+      internalID: -1039560727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 294
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e7ddf0944f64d0ea8632fb39f14af3
+      internalID: 708944040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 303
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976ed6c6e28284006a7069adcd946127
+      internalID: 2070433609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 308
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf699158ba354ab0942d0c79abb8da7
+      internalID: 1166125797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 298
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdcd8e0535b94e569bc4ac54d2a7dca
+      internalID: -286518930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 297
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a29c0dd6e724e17b52c93a39fd7663
+      internalID: 1072332444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 297
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fe5df19c8a9423797b2f39fa06084f
+      internalID: 102259104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 293
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d0117c7e86942a1beacb30f7003d0e
+      internalID: -630870120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 174
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af4c534f794944ebb590ac849f7e85c
+      internalID: 517566993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 167
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680d532ec9f5645ceafa9f0c09f19a4d
+      internalID: -265075932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 165
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268ebf0beef324178a80a376604f3ffa
+      internalID: 1269883322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 159
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8243e9285b33467dacf37efa4a84101
+      internalID: 1642512452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 162
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874ca653da4a0474da5212163bb61a64
+      internalID: -1641663009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 163
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62467d713fdd44622a1d24cd5240d46f
+      internalID: -1718693062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 184
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea9cb79e978c4cb69bb804f42f57319
+      internalID: 1575934262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 186
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0662ac1fd435442a5adb680ba32b3848
+      internalID: -1969142842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 182
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d0573d8c56b4931bc64dae5430e22e
+      internalID: -2031644275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 161
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389dc75caa88d4c238b99464c9580d3e
+      internalID: -1612713026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 161
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5032f68327f264b3997ef9bd0a8ee59c
+      internalID: 1670602262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 161
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e555c88c77314de3bceb9eb867970d8
+      internalID: 765771587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 161
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab5b87218f264fc59d4d46161e40fb9
+      internalID: 1390210575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 163
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d566dc3db51504ce3a76dbb5263ef84e
+      internalID: 1386750055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 166
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb84296b8f084735bbd14664da5bcac
+      internalID: -1877820007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 163
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc025563b7b1d431c840c092be4023c4
+      internalID: 753847365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 42
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4321048c75a914041b3129feedd52f78
+      internalID: -1958055696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 39
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9157db35241434ee8aa67be14314a6d7
+      internalID: 1541847267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 31
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dadbf2becbda414f9f5bd267264ac95
+      internalID: -1699602001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 38
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57aa7843c46b41e5bc5e4b7a99e9cdd
+      internalID: -577612796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 40
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74ab27b9c569471aa21b91e4e03ec9e
+      internalID: 102105483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 66
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc07adbe3579471580cb97b1a76698e
+      internalID: 1619832852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 65
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e82e32772904bf495ab7c54f4cacc4
+      internalID: -101668293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 63
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb52082a93f97409590344c5721d5351
+      internalID: 14011788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 38
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d938de0d5814620be5becade5b16a8
+      internalID: 1675010986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 38
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc797b28aebb4fb9bf08e219161f81c
+      internalID: 548722069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 38
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2952bfd34d6af4591ac0c34e8af9e746
+      internalID: 1250215539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 38
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33c09911e4444dcaaa328c30f097284
+      internalID: 744379721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 52
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a2981c0b0e34b2fb972645b1dffbfa
+      internalID: -67577728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 47
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fe50832ee6f49eca51ffe7a84dd39c
+      internalID: -43112160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 42
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec39de1659e6d4ab8b2818d628a2de7d
+      internalID: -1111191375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 41
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cc527cd4d2840e28edb671fb4f45c5
+      internalID: -1649865239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 41
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004027ea8dcb84a66a606cf26abe344d
+      internalID: -632362400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recurvebow_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 37
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0302f99a5a462495b8782098225a7f3c
+      internalID: -1630107600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      recurvebow_sheet_30: 102259104
+      recurvebow_sheet_21: -192621768
+      recurvebow_sheet_6: 1047690039
+      recurvebow_sheet_35: 1642512452
+      recurvebow_sheet_22: 260368301
+      recurvebow_sheet_58: 1250215539
+      recurvebow_sheet_11: -1479050777
+      recurvebow_sheet_19: -1611633098
+      recurvebow_sheet_44: 1390210575
+      recurvebow_sheet_9: -1808786401
+      recurvebow_sheet_12: -954699374
+      recurvebow_sheet_16: -218204099
+      recurvebow_sheet_42: 1670602262
+      recurvebow_sheet_54: -101668293
+      recurvebow_sheet_34: 1269883322
+      recurvebow_sheet_20: -1178542822
+      recurvebow_sheet_46: -1877820007
+      recurvebow_sheet_47: 753847365
+      recurvebow_sheet_45: 1386750055
+      recurvebow_sheet_59: 744379721
+      recurvebow_sheet_15: 450348168
+      recurvebow_sheet_23: -298309602
+      recurvebow_sheet_10: -148356935
+      recurvebow_sheet_18: 1054410274
+      recurvebow_sheet_17: -2121511919
+      recurvebow_sheet_31: -630870120
+      recurvebow_sheet_61: -43112160
+      recurvebow_sheet_0: -2121576876
+      recurvebow_sheet_3: 1276592797
+      recurvebow_sheet_48: -1958055696
+      recurvebow_sheet_7: 418354564
+      recurvebow_sheet_26: 2070433609
+      recurvebow_sheet_52: 102105483
+      recurvebow_sheet_57: 548722069
+      recurvebow_sheet_27: 1166125797
+      recurvebow_sheet_1: -1310806253
+      recurvebow_sheet_63: -1649865239
+      recurvebow_sheet_5: 1555558737
+      recurvebow_sheet_53: 1619832852
+      recurvebow_sheet_55: 14011788
+      recurvebow_sheet_37: -1718693062
+      recurvebow_sheet_41: -1612713026
+      recurvebow_sheet_2: -1548521280
+      recurvebow_sheet_4: -423390254
+      recurvebow_sheet_32: 517566993
+      recurvebow_sheet_49: 1541847267
+      recurvebow_sheet_8: 199275208
+      recurvebow_sheet_13: 1425429408
+      recurvebow_sheet_25: 708944040
+      recurvebow_sheet_60: -67577728
+      recurvebow_sheet_40: -2031644275
+      recurvebow_sheet_33: -265075932
+      recurvebow_sheet_28: -286518930
+      recurvebow_sheet_39: -1969142842
+      recurvebow_sheet_43: 765771587
+      recurvebow_sheet_65: -1630107600
+      recurvebow_sheet_64: -632362400
+      recurvebow_sheet_56: 1675010986
+      recurvebow_sheet_50: -1699602001
+      recurvebow_sheet_38: 1575934262
+      recurvebow_sheet_51: -577612796
+      recurvebow_sheet_29: 1072332444
+      recurvebow_sheet_36: -1641663009
+      recurvebow_sheet_24: -1039560727
+      recurvebow_sheet_14: 646983265
+      recurvebow_sheet_62: -1111191375
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

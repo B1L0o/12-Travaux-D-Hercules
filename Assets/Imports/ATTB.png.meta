@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 92d59785da0544510be8215f928694e5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ATTB_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 337
+        width: 51
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5013516, y: 0.3524292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39271eaf9dce544f2848f16c93b661a7
+      internalID: -2119568387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTB_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 338
+        width: 124
+        height: 84
+      alignment: 9
+      pivot: {x: 0.33266363, y: 0.37648955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce48e0b63e4d34901b069401d0b09609
+      internalID: -62733513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTB_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 349
+        width: 76
+        height: 54
+      alignment: 9
+      pivot: {x: 0.41087863, y: 0.56671935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b8837167c4846b89c450c0469d9b0c
+      internalID: 1899604901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTB_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 329
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38a4989352fb42b4b68d8f9f94217b5
+      internalID: 1487432055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTB_4
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 350
+        width: 47
+        height: 49
+      alignment: 9
+      pivot: {x: 0.54845804, y: 0.6178527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b310703081ed474497414af9c437a32
+      internalID: -14392198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTB_5
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 340
+        width: 65
+        height: 76
+      alignment: 9
+      pivot: {x: 0.628841, y: 0.46092626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e2bda17922246ac907434f322db747
+      internalID: -1118160914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTB_6
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 342
+        width: 67
+        height: 90
+      alignment: 9
+      pivot: {x: 0.7481817, y: 0.4139289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43debcbb66b114334b2c99d67813656c
+      internalID: -1008816367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTB_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 245
+        width: 44
+        height: 52
+      alignment: 9
+      pivot: {x: 0.54856735, y: 0.5734535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a24deb1de9234ee09fd13c70f495ed1
+      internalID: 1905465338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTB_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 243
+        width: 40
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5723122, y: 0.5209598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27186b823b6e14f578dea7a0fe3f91d3
+      internalID: 149326933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTB_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 244
+        width: 38
+        height: 61
+      alignment: 9
+      pivot: {x: 0.6914159, y: 0.5461911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1af48c9dc7046c281e76c01da5dbcc
+      internalID: 181224065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTB_10
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 246
+        width: 44
+        height: 62
+      alignment: 9
+      pivot: {x: 0.6443294, y: 0.5395493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3419e7ff4592447abf06df8ce9eba4a
+      internalID: 552431061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTB_11
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 249
+        width: 69
+        height: 67
+      alignment: 9
+      pivot: {x: 0.62736267, y: 0.40335175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3e20f39473d47a6a1c359fe3eed550
+      internalID: -2130661646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTB_12
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 235
+        width: 93
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cdff5fc17244ce8be2729dab6f17f0
+      internalID: 82632395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTB_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 124
+        width: 92
+        height: 82
+      alignment: 9
+      pivot: {x: 0.25575206, y: 0.3149068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c683cacd566e6434c9dfc50c9e63d7b3
+      internalID: -602005780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTB_14
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 136
+        width: 112
+        height: 61
+      alignment: 9
+      pivot: {x: 0.39440414, y: 0.6260228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3fdcf380e264970a0e4edd06bc5cb7
+      internalID: -845475588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTB_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 184
+        width: 28
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e199bb49b71844dd97464fd2de4b423
+      internalID: -341692564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTB_16
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 137
+        width: 81
+        height: 70
+      alignment: 9
+      pivot: {x: 0.3991963, y: 0.4792971}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ff11d2df7294be0abbb7ce390bf9f8
+      internalID: 105603887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTB_17
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 128
+        width: 63
+        height: 83
+      alignment: 9
+      pivot: {x: 0.74745446, y: 0.54527503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ca2ca1c560d4ba6aa8f34c5fa4cb94
+      internalID: -1984239104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTB_18
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 136
+        width: 53
+        height: 73
+      alignment: 9
+      pivot: {x: 0.64173114, y: 0.5035678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45257584a4334e3b8feedbe88a3fa57
+      internalID: 1058650239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTB_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 164
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24a9ef0547f44926b8caee218da9a6c
+      internalID: 1727957881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ATTB_18: 1058650239
+      ATTB_4: -14392198
+      ATTB_14: -845475588
+      ATTB_9: 181224065
+      ATTB_12: 82632395
+      ATTB_7: 1905465338
+      ATTB_8: 149326933
+      ATTB_1: -62733513
+      ATTB_15: -341692564
+      ATTB_11: -2130661646
+      ATTB_10: 552431061
+      ATTB_3: 1487432055
+      ATTB_6: -1008816367
+      ATTB_2: 1899604901
+      ATTB_0: -2119568387
+      ATTB_16: 105603887
+      ATTB_19: 1727957881
+      ATTB_5: -1118160914
+      ATTB_13: -602005780
+      ATTB_17: -1984239104
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
